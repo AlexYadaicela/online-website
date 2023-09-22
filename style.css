@@ -1,0 +1,16 @@
+html, body{
+    margin: 0;
+    padding: 0; 
+}
+
+.nav-bar{
+    display: flex;
+    background-color: black;
+    background-size:cover;
+}
+
+.nav-bar .links a{
+    list-style: none;
+    text-decoration: none;
+    color: white; 
+}
